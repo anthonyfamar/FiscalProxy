@@ -10,8 +10,7 @@
 # FiscalProxy
 
 <!-- Substitua a seguinte imagem por uma logo do seu projeto -->
-<img src="img/logo_fiscalProxy.png" width="150px">
-<img src="img/lgosemfundo.png" width="150px">
+<img src="img/logo_fiscalProxy_semFundo.png" width="150px">
 
 <!-- Substitua o seguinte parágrafo por um resumo do seu projeto: -->
 FiscalProxy é um proxy intermediador para webservices fiscais (SEFAZ/DF-e) que permite interceptar, registrar, simular e manipular requisições e respostas, facilitando a reprodução de cenários, diagnóstico de bugs e testes controlados em integrações com NFe, CTe, NFCe e MDF-e.
@@ -21,4 +20,4 @@ FiscalProxy é um proxy intermediador para webservices fiscais (SEFAZ/DF-e) que 
 <!-- Coloque seu nome, uma foto sua e uma pequena bio sobre você na seguinte tabela: -->
 |  |  |
 |:-------------:|:------------------------------------------------------------:|
-|  <img src="img/imagem_perfil.png" width="150px"></br> **Anthony Famar** | Nasci em Cuiabá em 22 de junho de 2000. Atualmente, sou estudante de Ciência da Computação e faço estágio como desenvolvedor. Meus dias são preenchidos com estudos para me tornar um programador e tenho como hobby a emoção de andar de moto, sair com amigos e me dedicar à academia. Essa mistura de paixões é o que torna minha jornada única e envolvente. |
+|  <img src="img/imagem_perfil.jpg" width="150px"></br> **Anthony Famar** | Nasci em Cuiabá em 22 de junho de 2000. Atualmente, sou estudante de Ciência da Computação e faço estágio como desenvolvedor. Meus dias são preenchidos com estudos para me tornar um programador e tenho como hobby a emoção de andar de moto, sair com amigos e me dedicar à academia. Essa mistura de paixões é o que torna minha jornada única e envolvente. |
