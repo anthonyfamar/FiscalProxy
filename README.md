@@ -11,6 +11,8 @@
 
 <!-- Substitua a seguinte imagem por uma logo do seu projeto -->
 <img src="img/logo_fiscalProxy_semFundo.png" width="150px">
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 <!-- Substitua o seguinte parágrafo por um resumo do seu projeto: -->
 FiscalProxy é um proxy intermediador para webservices fiscais (SEFAZ/DF-e) que permite interceptar, registrar, simular e manipular requisições e respostas, facilitando a reprodução de cenários, diagnóstico de bugs e testes controlados em integrações com NFe, CTe, NFCe e MDF-e.
