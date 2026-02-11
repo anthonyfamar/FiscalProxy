@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiscalProxy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d7673e341e12c3e6c3fb69a2b406d001a4b2784")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f33953478f5d7a31bee04008e241271fb0599c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiscalProxy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiscalProxy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

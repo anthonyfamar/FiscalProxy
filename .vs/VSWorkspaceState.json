@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\img"
+    "\\FiscalProxy",
+    "\\FiscalProxy\\FiscalProxy"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\FiscalProxy\\FiscalProxy",
   "PreviewInSolutionExplorer": false
 }
